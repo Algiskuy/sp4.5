@@ -1,0 +1,66 @@
+body {
+  background-image: url(/foto/11.jpg);
+  background-size: cover;
+}
+main {
+  /* width: max-content; */
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+.content1 {
+  display: flex;
+  background-color: rgba(175, 125, 84, 0.815);
+  border: 2px solid;
+}
+.menu1 {
+  border: 1px solid;
+  width: 150px;
+  background-color: rgba(145, 116, 92, 0.616);
+  text-align: center;
+}
+.menu1 img {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+.dodet {
+  text-decoration: line-through;
+}
+.icons1 {
+  width: 25%;
+}
+
+.icons2 {
+  width: 15%;
+}
+.nama2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 79px;
+  /* align-self: end; */
+  padding-left: 10px;
+}
+.nama1 {
+  padding: 0px 10px 0px 10px;
+}
+.nama1 a {
+  margin-left: 10px;
+  text-decoration: none;
+  /* border: 1px solid; */
+  border-radius: 10px;
+  padding: 5px;
+  color: wheat;
+  background-color: red;
+}
+h2 {
+  margin: 0px;
+}
+.nama4 a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.comander {
+  /* border: 1px solid; */
+}
